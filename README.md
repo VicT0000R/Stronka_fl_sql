@@ -1,7 +1,7 @@
 # Stronka - blog z kotkami
 ### Z użyciem Flaska - w ramach projektu na przemiot "Python w praktyce - web & deep learning"
 ### Autorzy:
-- Wiktor Trzaskowski
+- Wiktor Trzaskowski - [@VicT0000R](https://github.com/VicT0000R)
 - Szymon Urbala - [@urbull](https://github.com/urbull)
 - Jagoda Radomska - [@cookiesx123](https://github.com/cookiesx123)
 ## O projekcie:
