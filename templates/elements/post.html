@@ -1,0 +1,16 @@
+<div class="custom-div">
+    <img src="{{ url_for('static', filename='uploads/' + post.img_path.split('/')[-1]) }}" alt="Image" class="image" style="max-height: 480px;">
+
+    <div class="nav-post">
+      <div class="creator">Opis:</div>
+      <!-- <div class="creator">likes</div>-->
+    </div>
+    
+    <div class="text">
+      {{ post.text }}
+    </div>
+    
+    {% if session["name"] == 'test' and session["name"] == 'test'%}
+      <button><a href="/delete-{{post.id}}">usun</a></button>
+    {%endif%}
+  </div>
