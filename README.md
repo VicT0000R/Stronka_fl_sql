@@ -27,7 +27,7 @@ Prosta strona internetowa stworzona z użyciem frameworka Flask. Jest to blog o 
 ## Jak uruchomić projekt:
 1. Sklonuj repozytorium:
 
-git clone https://github.com/VicT0000R/Strona_Flask.git
+git clone https://github.com/VicT0000R/Stronka_fl_sql.git
 
 cd Strona_Flask
 
