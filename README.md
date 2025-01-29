@@ -15,7 +15,6 @@ Prosta strona internetowa stworzona z użyciem frameworka Flask. Jest to blog o 
 ## Struktura projektu:
 |Plik/Folder| Opis|
 |:----------|:----|
-|📁 .venv/ |Środowisko wirtualne projektu|
 |📁 db/ |Baza danych SQLite obsługiwana przez SQLAlchemy|
 |📁 functions/ |Dodatkowe funkcje pomocnicze|
 |📁 instance/ |Przechowywanie tabeli users z bazy danych|
